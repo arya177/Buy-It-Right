@@ -1,0 +1,175 @@
+*{
+    /* background-image: url("images/monopolyfront.png"); */
+    
+  }
+
+body{
+    background-image: url('images/monopolyfront.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+#cell20{
+  background: repeating-linear-gradient(
+  to right,
+  #5e3209,
+  #945a18 10px,
+  #351f0b 10px,
+  #c7803d 20px
+);
+  }
+
+#cell19{
+	background: #FFA500;
+}
+#cell18{
+	background: #FFA500;
+}
+#cell16{
+  background: #FFA500;
+}
+#cell14{
+  background: #FF0080;
+}
+#cell13{
+  background: #FF0080;
+}
+#cell11{
+  background: #FF0080;
+}
+#cell10{
+  background: repeating-linear-gradient(
+  to right,
+  #222120,
+  #3f3932 10px,
+  #222120 10px,
+  #3f3932 20px
+);
+}
+#cell9{
+  background: #87CEEB;
+  color: black;
+}
+#cell8{
+  background: #87CEEB;
+  color: black;
+}
+#cell6{
+  background: #87CEEB;
+  color: black;
+}
+#cell3{
+  background: #8B4513;
+
+}
+#cell1{
+  background: #8B4513;
+  
+}
+#cell39{
+  background: #0000FF;
+}
+#cell37{
+  background: #0000FF;
+}
+#cell34{
+  background: #008000;
+}
+#cell32{
+  background: #008000;
+}
+#cell31{
+  background: #008000;
+}
+#cell30{
+  background: repeating-linear-gradient(
+  to right,
+  #222120,
+  #3f3932 10px,
+  #222120 10px,
+  #3f3932 20px
+);
+}
+#cell29{
+  background: #FFFF00;
+  color: black;
+}
+#cell7{
+  background: #fbfbf8;
+  color: black;
+}
+#cell22{
+  background: #fbfbf8;
+  color: black;
+}
+#cell36{
+  background: #fbfbf8;
+  color: black;
+}
+#cell2{
+  background: #fbfbf8;
+  color: black;
+}
+#cell4{
+  background: #fbfbf8;
+  color: black;
+}
+#cell12{
+  background: #fbfbf8;
+  color: black;
+}
+#cell17{
+  background: #fbfbf8;
+  color: black;
+}
+#cell28{
+  background: #fbfbf8;
+  color: black;
+}
+#cell33{
+  background: #fbfbf8;
+  color: black;
+}
+#cell38{
+  background: #fbfbf8;
+  color: black;
+}
+#cell5{
+  background: #0c0c0c;
+  color: white;
+}
+#cell15{
+  background: #0c0c0c;
+  color: white;
+}
+#cell25{
+  background: #0c0c0c;
+  color: white;
+}
+#cell35{
+  background: #0c0c0c;
+  color: white;
+}
+#cell19{
+  background: #FFA500;
+  color: white;
+}
+#cell27{
+  background: #FFFF00;
+  color: black;
+}
+#cell26{
+  background: #FFFF00;
+  color: black;
+}
+#cell24{
+  background: #FF0000;
+}
+#cell23{
+  background: #FF0000;
+}
+#cell21{
+  background: #FF0000;
+}
